@@ -1,0 +1,77 @@
+{
+    "products": [
+        
+
+        {
+            "id": 3,
+            "title": "X-box Series X",
+            "image": "../assets/images/product-4.jpg",
+            "price": 468,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Hisense 43 inch TV",
+            "image": "../assets/images/products/tv/hisense.jpg",
+            "price": 356,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "HP EliteBook Revolve 810 G3",
+            "image": "../assets/images/products/laptop/3-14.jpg",
+            "price": 490,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Apple iPhone 13 Pro",
+            "image": "../assets/images/products/phones/Apple-iPhone-13-Pro-Alpine-Green.jpg",
+            "price": 257,
+            "category": "Special Products"
+        },
+
+        
+
+        {
+            "id": 10,
+            "title": "Samsung 75 inch Smart TV Neo QLED",
+            "image": "../assets/images/neo.jpeg",
+            "price": 853,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "Sony PlayStation 4 GOW themed Skin",
+            "image": "../assets/images/products/ps4/s-l500.jpg",
+            "price": 475,
+            "category": "Special Products"
+        },
+        
+        {
+            "id": 12,
+            "title": "Apple iPhone 13 Pro Max 256GB",
+            "image": "../assets/images/products/phones/Apple-iPhone-13-Pro-.jpeg",
+            "price": 850,
+            "category": "Special Products"
+        },
+
+        
+        {
+            "id": 9,
+            "title": "16inch MacBook pro M1 Pro",
+            "image": "../assets/images/products/laptop/HP9V2.jpeg",
+            "price": 720,
+            "category": "Special Products"
+        },
+        {
+            "id": 15,
+            "title": "43inch Hisense Smart TV 4K Ultra Display",
+            "image": "../assets/images/products/tv/hisense.jpg",
+            "price": 305,
+            "category": "Trending Products"
+        }
+       
+        
+    ]
+}
